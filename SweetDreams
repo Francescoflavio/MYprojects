@@ -1,5 +1,0 @@
-git clone https://github.com/Francescoflavio/MYprojects.git
-cd MYprojects
-git rm -r SweetDreams
-git commit -m "Elimina file/cartella SweetDreams"
-git push origin main
